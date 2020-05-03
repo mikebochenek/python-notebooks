@@ -7,8 +7,8 @@ These scripts are from my Digital Ocean instance - https://jupyter.bochenek.ch (
 | ------------- | ------------- |
 | [hello world](/HelloWorldLiterally.ipynb) | to ensure that the setup works and you can access all the libraries |
 | [python mastery](/PythonMastery.ipynb) | touch up python scripting skillz |
-| [Presto](/PrestoStats.ipynb) | visualization of data |
-| Yakondi | visualization of data |
+| [Presto](/PrestoStats.ipynb) | visualization of Presto data |
+| [Yakondi](/YakondiStats.ipynb) | visualization of Yakondi data |
 
 ## Learning Resources
 I have personally used these learning resources, and I am not the only who would recommend these.
