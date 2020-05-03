@@ -5,9 +5,9 @@ These scripts are from my Digital Ocean instance - https://jupyter.bochenek.ch (
 
 | Notebook      | Description   |
 | ------------- | ------------- |
-| [hello world](/blob/master/HelloWorldLiterally.ipynb) | to ensure that the setup works and you can access all the libraries |
-| python mastery | touch up python scripting skillz |
-| Presto | visualization of data |
+| [hello world](/HelloWorldLiterally.ipynb) | to ensure that the setup works and you can access all the libraries |
+| [python mastery](/PythonMastery.ipynb) | touch up python scripting skillz |
+| [Presto](/PrestoStats.ipynb) | visualization of data |
 | Yakondi | visualization of data |
 
 ## Learning Resources
