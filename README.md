@@ -8,6 +8,8 @@ These scripts are from my Digital Ocean instance - https://jupyter.bochenek.ch (
 | [hello world](/HelloWorldLiterally.ipynb) | to ensure that the setup works and you can access all the libraries |
 | [python mastery](/PythonMastery.ipynb) | touch up python scripting skillz |
 | [Presto](/PrestoStats.ipynb) | visualization of Presto data |
+| [stonks-1](/stonks-1.ipynb) | fetch & display stock data from yfinance |
+| [TextExtractionAndClassification](/TextExtractionAndClassification.ipynb) | text classification (not fully working!)  |
 | [Yakondi](/YakondiStats.ipynb) | visualization of Yakondi data |
 
 ## Learning Resources
