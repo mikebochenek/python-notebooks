@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# The .virtual_documents directory is a temporary folder created by JupyterLab
+.virtual_documents/
